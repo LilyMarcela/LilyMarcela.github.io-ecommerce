@@ -1,0 +1,35 @@
+
+.modal-body{
+    padding: 10px;
+    margin: 10px;
+}
+
+.modal-body .row p {
+    padding: 10px 30px 0px 30px;
+    text-align: justify;
+}
+
+#profile{
+    padding-top: 15px;
+}
+
+
+.fa-heart {
+    color: #286090;
+    padding-top: 10px;
+}
+
+.modal-body .container-fluid {
+   padding-bottom: 15px;
+}
+.modal-body .container-fluid span{
+    margin: 5px 0px; 
+
+}
+
+@media only screen and (max-width: 991px) {
+    form {
+        padding-bottom: 20px;
+    }
+}
+
